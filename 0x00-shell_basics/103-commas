@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laSx --format commas --indicator-style=slash
+ls -lax --format commas --indicator-style=slash
